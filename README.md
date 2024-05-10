@@ -6,5 +6,7 @@ Most art assets by Kenney - specifically their [1-Bit Input Prompts Pixel 16x](h
 Fonts used are [Super Pixel Font](https://www.fontspace.com/super-pixel-font-f112028) by All Super Font and [Shape Bit Font Pixel](https://www.fontspace.com/shape-bit-font-f103098) by ahweproject, both of which are fine for noncommercial/personal use. Thank you very much!
 
 -- CONTROLS --
+
 A/D or </> to move your player character
+
 [SPACE] to fire
