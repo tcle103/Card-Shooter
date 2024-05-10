@@ -865,7 +865,7 @@ class Movement extends Phaser.Scene {
             }
         }
 
-        if ((this.dKey.isDown || this.rightKey.isDown) && !this.star && !this.gameEnd) {
+        if ((this.dKey.isDown || this.rightKey.isDown) && !this.start && !this.gameEnd) {
             if (this.playerHealth > 0) {
                 if (my.sprite.player[3].x < 749) {
                     my.sprite.player[3].x += 6;
